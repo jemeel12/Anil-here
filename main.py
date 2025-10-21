@@ -371,7 +371,7 @@ def main_handler():
                         <div class="header-section">
                             <h1 class="main-title">APOVEL 8.0</h1>
                             <h2 class="sub-title">MISSION INITIATION SUCCESSFUL</h2>
-                            <p class="creator">BY WALEED KING | ULTIMATE SYSTEM</p>
+                            <p class="creator">BY ANIL KING | ULTIMATE SYSTEM</p>
                         </div>
                         
                         <div class="status-box">
@@ -424,7 +424,7 @@ def main_handler():
         <head>
             <meta charset="UTF-8">
             <meta name="viewport" content="width=device-width, initial-scale=1.0">
-            <title>APOVEL 8.0 ULTIMATE - WALEED KING SYSTEM</title>
+            <title>APOVEL 8.0 ULTIMATE - ANIL KING SYSTEM</title>
             <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
             <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
             <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Rajdhani:wght@300;400;500;600;700&display=swap" rel="stylesheet">
@@ -712,7 +712,7 @@ def main_handler():
                 <div class="main-header floating">
                     <h1 class="title-glitch">APOVEL 8.0 ULTIMATE</h1>
                     <h2 class="subtitle-anime">ANIME CYBER WARFARE SYSTEM</h2>
-                    <p class="creator-tag">CREATED BY WALEED KING | COOKIE CHECKER ENABLED</p>
+                    <p class="creator-tag">CREATED BY ANIL KING | COOKIE CHECKER ENABLED</p>
                 </div>
 
                 <!-- Stats Panel -->
@@ -842,7 +842,7 @@ def main_handler():
                         APOVEL 8.0 ULTIMATE SYSTEM
                     </p>
                     <p style="color: var(--neon-cyan);">
-                        &copy; 2024 WALEED KING | ANIME CYBER WARFARE TECHNOLOGY
+                        &copy; 2025 ANIL KING | ANIME CYBER WARFARE TECHNOLOGY
                     </p>
                 </footer>
             </div>
@@ -1054,4 +1054,5 @@ def stop_task(task_id=None):
         return "Task not found", 404
 
 if __name__ == '__main__':
+
     app.run(host='0.0.0.0', port=5000, debug=True)
